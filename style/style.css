@@ -34,6 +34,7 @@
     padding-right: 20px;
     background-color: rgba(229, 84, 115, 1);
     border-radius: 10px;
+    border: none;
     color: white;
     border-color: rgba(229, 84, 115, 1);
 }
@@ -113,6 +114,7 @@
     height: 350px;
     width: 350px;
     margin-top: 50px;
+    position: absolute; left: 10px;
 }
 .pink1{
     margin-left: 50px; margin-right: 50px;
@@ -198,7 +200,7 @@
     background-color: rgba(229, 84, 115, 0.05);
     position: relative;
 }     
-.img3{
+.img3-sec3{
     position: absolute; right: 15%;
 }  
 .txt1-sec3{
@@ -223,6 +225,7 @@
     padding-right: 20px;
     background-color: rgba(229, 84, 115, 1);
     border-radius: 10px;
+    border: none;
     color: white;
     border-color: rgba(229, 84, 115, 1);
     position: absolute; left: 420px; top: 240px;
@@ -311,12 +314,12 @@
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 40px;
-    position: absolute; top: 75px; left: 40%;
+    position: absolute; top: 110px; left: 40%;
 }
 .txt2-footer{
     color: rgba(255, 255, 255, 0.9);
     text-align: center;
-    position: absolute; top: 120px; left: 31%;
+    position: absolute; top: 150px; left: 31%;
     margin-top: 12px;
     font-size: 15px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -325,7 +328,7 @@
     color: rgba(255, 255, 255, 0.4);
     font-size: 14px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    position: absolute; top: 180px; left: 37%;
+    position: absolute; top: 210px; left: 37%;
 }
 .flw{
     color: rgba(229, 84, 115, 1);
